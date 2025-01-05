@@ -1,4 +1,4 @@
-# Buyer Folio: Real Estate Agent Recommendation System
+# Real Estate Agent Recommendation System
 
 ## Overview
 
